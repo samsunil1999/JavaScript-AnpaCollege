@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+    background-color: rgb(249, 108, 61);
+} 
+
+body {
+    background-color: rgb(242, 195, 152);
+}
+
+button {
+    background-color: rgb(128, 3, 128);
+    color: rgb(249, 190, 243);
+}

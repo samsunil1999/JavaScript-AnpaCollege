@@ -1,0 +1,21 @@
+.btn-dark {
+    border: 1px solid rgb(134, 202, 236);
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 105px;
+}
+
+.body-dark {
+    background-color: rgb(42, 44, 45);
+    color: white;
+}
+
+
+#mode {
+    border: 1px solid black;
+    border-radius: 6px;
+    height: 30px;
+    width: 105px;
+}
